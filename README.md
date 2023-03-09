@@ -37,14 +37,6 @@
 <td>Coin Maturity</td>
 <td>30+1 Block</td>
 </tr>
-<tr>
-<td>Port</td>
-<td>5727</td>
-</tr>
-<tr>
-<td>RPC Port</td>
-<td>5726</td>
-</tr>
 </tbody>
 <br>
 <h2><strong>POS Rewards Distribution:</strong></h2>
