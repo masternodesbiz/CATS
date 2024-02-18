@@ -1,3 +1,0 @@
-usr/local/bin/catscoind usr/bin
-usr/local/bin/catscoin-cli usr/bin
-debian/examples/catscoin.conf etc/catscoin
