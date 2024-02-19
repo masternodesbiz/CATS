@@ -95,6 +95,10 @@ https://discord.gg/DAKKpyRwgM
   <td height=21 class=xl6417252 style='height:15.75pt'>2000001-INF</td>
   <td class=xl6517252>400000</td>
   <td class=xl6617252>0</td>
+  <td class=xl6617252>0</td>
+  <td class=xl6617252>0</td>
+  <td class=xl6717252 align=right>0</td>
+  <td class=xl6817252 align=right>0</td>
   </tr>
   </table>
 
